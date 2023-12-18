@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **PI**
+- 🔭 I've just graduated from Henry.
 
 - 📫 How to reach me **santiagobosca@gmail.com**
 

@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
+``` js
+const myFav = {
+  pronouns: "he" | "him",
+  code: [javascript, HTML, css],
+  tools: [React, Redux, Nodejs, Express, PostgreSQL, Sequelize],
+}
+```
+
 - 🔭 I've just graduated from Henry.
 
 - 📫 How to reach me **santiagobosca@gmail.com**

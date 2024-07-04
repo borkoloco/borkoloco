@@ -9,7 +9,7 @@ const myFav = {
 }
 ```
 
-- 🔭 I've just graduated from Henry.
+- 🔭 Graduated from Henry.
 
 - 📫 How to reach me **santiagobosca@gmail.com**
 

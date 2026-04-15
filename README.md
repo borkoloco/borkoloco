@@ -26,7 +26,8 @@ const santiago = {
     languages: ["JavaScript", "TypeScript"],
     cloud:    ["AWS", "Google Cloud", "Vercel", "Railway", "Render"],
     devops:   ["Docker", "Git", "GitHub Actions"],
-    tools:    ["Jest", "VS Code"]
+    tools:    ["Jest", "VS Code"],
+    aiTools:  ["Claude", "Claude Code", "Cursor", "Windsurf", "Antigravity"]
   },
   funFact: "I ship features faster with a good cup of mate ☕"
 };
@@ -43,6 +44,22 @@ const santiago = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,bootstrap,nodejs,express,postgres,mongodb,sequelize,jest,git,github,githubactions,docker,aws,gcp,vercel,railway,vscode,photoshop&perline=10" alt="tech stack" />
+</p>
+
+---
+
+---
+
+### 🤖 AI-powered workflow
+
+I work side-by-side with AI to design, code and ship faster:
+
+<p align="center">
+  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
+  <a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" /></a>
+  <a href="https://cursor.com"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" /></a>
+  <a href="https://windsurf.com"><img src="https://img.shields.io/badge/Windsurf-00B4D8?style=for-the-badge&logo=codeium&logoColor=white" alt="Windsurf" /></a>
+  <a href="https://antigravity.google"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" /></a>
 </p>
 
 ---

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santiago Boscán</h1>
+<h1 align="center">Hi 👋, I'm Santiago Bosca</h1>
 <h3 align="center">Full Stack Developer · Argentina 🇦🇷</h3>
 
 <p align="center">
@@ -21,11 +21,13 @@ const santiago = {
   pronouns: ["he", "him"],
   role: "Full Stack Developer",
   stack: {
-    frontend: ["React", "React Native", "Redux", "TailwindCSS"],
+    frontend: ["React", "React Native", "Redux", "TailwindCSS", "Next.js"],
     backend:  ["Node.js", "Express", "PostgreSQL", "Sequelize", "MongoDB"],
-    tools:    ["Git", "Jest", "Vercel"]
+    languages: ["JavaScript", "TypeScript"],
+    cloud:    ["AWS", "Google Cloud", "Vercel", "Railway", "Render"],
+    devops:   ["Docker", "Git", "GitHub Actions"],
+    tools:    ["Jest", "VS Code"]
   },
-  currentlyLearning: ["TypeScript", "Next.js", "AWS"],
   funFact: "I ship features faster with a good cup of mate ☕"
 };
 ```
@@ -40,7 +42,7 @@ const santiago = {
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,bootstrap,nodejs,express,postgres,mongodb,sequelize,jest,git,github,vercel,vscode,photoshop&perline=10" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,bootstrap,nodejs,express,postgres,mongodb,sequelize,jest,git,github,githubactions,docker,aws,gcp,vercel,railway,vscode,photoshop&perline=10" alt="tech stack" />
 </p>
 
 ---
